@@ -7,6 +7,7 @@
     border-radius: 5px;
     object-fit: fill;
     transition: 0.5s;
+    overflow:hidden;
 }
 .card-item .card__image:hover{
     transform: scale(1.1);
